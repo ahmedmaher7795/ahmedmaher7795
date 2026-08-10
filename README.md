@@ -16,7 +16,7 @@ updates for high-volume client sites. Strong attention to detail and comfortable
 functional teams.
 
 * 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at https://ahmed-portfolio-fb8d09.webflow.io/
+* 🖥️  See my portfolio at 
 * ✉️  You can contact me at mailto:ahmedmaher88103@gmail.com
 * 🧠  I'm currently learning Automation
 * 👥  I'm open to collaborating on web development and website optimization projects
