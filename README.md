@@ -2,10 +2,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ====================================================================================================================================
 
-Web Developer | WordPress | Duda | Automation
+Web Developer | WordPress | Duda | SEO
 -----------------------------------------
 
-Web Specialist with over 2.5 years of hands-on experience building, managing, and maintaining responsive
+Web Specialist with over 2+ years of hands-on experience building, managing, and maintaining responsive
 
 websites using Duda, WordPress, and Squarespace. Experienced in agency environments, delivering client
 
@@ -16,7 +16,7 @@ updates for high-volume client sites. Strong attention to detail and comfortable
 functional teams.
 
 * 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [https://ahmed-portfolio-fb8d09.webflow.io/](https://live-ahmed-tech-eg.pantheonsite.io/)
+* 🖥️  See my portfolio at https://ahmed-portfolio-fb8d09.webflow.io/
 * ✉️  You can contact me at mailto:ahmedmaher88103@gmail.com
 * 🧠  I'm currently learning Automation
 * 👥  I'm open to collaborating on web development and website optimization projects
